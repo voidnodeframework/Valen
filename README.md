@@ -1,4 +1,4 @@
-
+https://www.youtube.com/watch?v=jJJm2nQVolY
 # Valen 
 
 Valen is a programming language that's aims to be not only **fast** and **memory-safe**, but also **easy and flexible**.
